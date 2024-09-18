@@ -15,4 +15,4 @@ export const DRAWER_WIDTH = 200;
 
 export const ROWSPERPAGE = [5, 10, 15, 20, 25];
 
-export const apiUrl = "http://apprunner.code-wizard.in:8226/FundFlowBackend/";
+export const apiUrl = "http://apprunner.code-wizard.in:8232/FundFlowBackend/";
